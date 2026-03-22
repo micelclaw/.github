@@ -6,4 +6,4 @@
 - 📖 [Documentation](https://docs.micelclaw.com)
 - 📝 [Blog](https://micelclaw.com/blog)
 - 🧑‍💻 [DEV Community](https://dev.to/micelclaw)
-- 🛫 [Telegram chanel] (https://t.me/micelclaw)
+- 🛫 [Telegram chanel](https://t.me/micelclaw)
